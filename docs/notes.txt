@@ -1,0 +1,10 @@
+
+data-platform
+
+data proxy
+
+
+https://cloud.prisma.io/projects
+
+
+https://www.prisma.io/docs/data-platform/projects/create#optional-create-a-data-proxy-connection-string
